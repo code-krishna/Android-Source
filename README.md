@@ -1,2 +1,1 @@
-# Android-Wifi-Direct-Chatting-App
-Android Application uses WiFi direct for chatting purpose.
+Android files related wifi-direct chat app connected to Mac AndroidStudio.
